@@ -13,3 +13,7 @@ This is a documented of the comparison
 # data_generation.ipynb # 
 This notebook shows how we generate synthetic data and run the CCM 
 
+##################################################################################
+
+# Assignment 1 # 
+THis folder contains solutions to assignment 1 of the course 
