@@ -15,4 +15,5 @@ This notebook shows how we generate synthetic data and run the CCM
 
 ##################################################################################
 
-# Assignment 1 folder ocontains solutions to assignment 1 of the course 
+# Assignment 1 # 
+THis folder contains solutions to assignment 1 of the course 
